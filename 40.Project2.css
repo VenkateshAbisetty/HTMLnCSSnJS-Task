@@ -9,7 +9,7 @@ body{
 
 h1{
 	text-align:center;
-	text-style:2rem;
+	font-size:2rem;
 }
 
 .ImageHeader{
@@ -27,31 +27,21 @@ h1{
 	border:1px solid #555;
 }
 
-.ImageHeader{
-	display: flex;
-	justify-content: center;
-}
-
-
-.hi{
-	display: flex;
-	justify-content: center;
-
-}
 .Image-Full{
 
-	border:2px solid #555;
-	padding:5px;
-	margin:10px;
-	height:500px;
-	width:800px;
+	display:flex;
+	justify-content:center;
+	
 	
 }
 
 #Full{
-
+	
+	border:2px solid #555;	
+	padding:5px;
+	margin:10px;
 	height:500px;
-	width:8s00px;
+	width:800px;
 
 }
 
