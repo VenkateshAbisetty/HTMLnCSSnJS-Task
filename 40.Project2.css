@@ -1,0 +1,58 @@
+*{
+	margin:0px;
+}
+
+body{
+	background-color:black;
+	color:white;
+}
+
+h1{
+	text-align:center;
+	text-style:2rem;
+}
+
+.ImageHeader{
+
+	display:flex;
+	justify-content:center;
+	align-items:center;
+
+}
+
+.imag{
+	width:100px;
+	height:100px;
+	padding:5px 5px;
+	border:1px solid #555;
+}
+
+.ImageHeader{
+	display: flex;
+	justify-content: center;
+}
+
+
+.hi{
+	display: flex;
+	justify-content: center;
+
+}
+.Image-Full{
+
+	border:2px solid #555;
+	padding:5px;
+	margin:10px;
+	height:500px;
+	width:800px;
+	
+}
+
+#Full{
+
+	height:500px;
+	width:8s00px;
+
+}
+
+
